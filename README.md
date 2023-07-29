@@ -6,6 +6,8 @@ I'm interested in Statistics.
 
 2021~ Statistical Analysis group P-SAT
 
+2023.02 ~ 2023.06 Winkstone partners
+
 <!--
 **JihyeonKim14/JihyeonKim14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
